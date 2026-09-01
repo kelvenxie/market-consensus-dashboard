@@ -4,12 +4,9 @@
 
 公開網站：<https://kelvenxie.github.io/market-consensus-dashboard/>
 
-每日市場總經摘要：<https://kelvenxie.github.io/market-consensus-dashboard/market-brief/>
-
 ## 公開內容
 
 - `index.html`：每日最新的市場共識儀表板。
-- `market-brief/index.html`：每日最新且通過逐欄驗證的市場總經新聞摘要。
 - `.nojekyll`：要求 GitHub Pages 原樣發布靜態檔案。
 
 ## 每日同步
